@@ -1,0 +1,4 @@
+.idea
+dumps/malware-linux.raw
+uv.lock
+.venv
