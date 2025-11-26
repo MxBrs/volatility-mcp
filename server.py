@@ -146,9 +146,9 @@ Examples:
     parser.add_argument(
         '--dump', '-d',
         dest='dump_path',
-        required=False,
-        default=Path("./dumps/malware-linux.raw"),
-        help='Path to the memory dump file (default: ./dumps/malware-linux.raw)'
+        required=True,
+        default=Path("dumps/malware-linux.raw"),
+        help='Path to the memory dump file (default: dumps/malware-linux.raw)'
     )
 
     parser.add_argument(
