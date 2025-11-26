@@ -21,7 +21,6 @@ I made this on Windows, see usage und the default values for why that matters.
   }
 }
 ```
-3. Put your symbol files either in the ``.venv/Lib/site-packages/volatility3/symbols`` folder
 
 ## Usage
 
